@@ -1,0 +1,11 @@
+ 
+
+1) Demonstrate on How to create and setup Metamask account and
+wallet?
+procedure:-
+step1:- create a wallet in meta mask
+step2:- buy test ether
+step3:- create cryptocurrency token 
+step4:- Add the created token to the assest 
+
+

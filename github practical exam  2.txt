@@ -1,0 +1,7 @@
+2) How to add and switch main network to Goreli test network in
+Metamask?
+procedure:-
+step1:- open up meta mask 
+step2:- go to the advance getting
+step3:- on test ether
+step4:- change main network to gorila test network
